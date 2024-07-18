@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2567cafb0d9976845973d6f36dc391b5, type: 3}
+  m_Name: ItemDataSo
+  m_EditorClassIdentifier: 
+  trashPrefabsEasy:
+  - {fileID: 4962356066088493598, guid: 00047d32821bf364daca9c77f2aa3fb1, type: 3}
+  - {fileID: 4962356066088493598, guid: 15ad9ae2fd7f98b42a89a19d2bd08b46, type: 3}
+  - {fileID: 4962356066088493598, guid: 6ced5b225da8a4742b12f2a5cfc1d889, type: 3}
+  - {fileID: 4962356066088493598, guid: e04df501ebd5e87468b79fa905344221, type: 3}
+  - {fileID: 4962356066088493598, guid: f950e8c54cf539544a4236d10cb13bbf, type: 3}
+  - {fileID: 4962356066088493598, guid: 44889e49134ddec42b8b70ecd849cd05, type: 3}
+  - {fileID: 4962356066088493598, guid: db498b7a5262cdd419d9aebf3a8a8c22, type: 3}
+  - {fileID: 4962356066088493598, guid: 9986e8ef96362ba43bd02e1f71e36552, type: 3}
+  trashPrefabsEasyCounter: 2
+  trashPrefabsMedium:
+  - {fileID: 4962356066088493598, guid: fe1124e952866764b8c4ecdf20af4c60, type: 3}
+  - {fileID: 3138930339803301279, guid: 877a75cdc76b8254d9f9dcf3f93be943, type: 3}
+  - {fileID: 4962356066088493598, guid: ddb39ba8c32bc15438fd06d2f17df00a, type: 3}
+  - {fileID: 4962356066088493598, guid: 6dbfcab0eca80ca4db202ac0cfdccc40, type: 3}
+  - {fileID: 4962356066088493598, guid: 70f865e000086b2479c40e9f50f6808c, type: 3}
+  trashPrefabsMediumCounter: 0
+  trashPrefabsHard:
+  - {fileID: 3138930339803301279, guid: 877a75cdc76b8254d9f9dcf3f93be943, type: 3}
+  - {fileID: 4962356066088493598, guid: ddb39ba8c32bc15438fd06d2f17df00a, type: 3}
+  - {fileID: 4962356066088493598, guid: db498b7a5262cdd419d9aebf3a8a8c22, type: 3}
+  - {fileID: 4962356066088493598, guid: 15ad9ae2fd7f98b42a89a19d2bd08b46, type: 3}
+  - {fileID: 4962356066088493598, guid: 00047d32821bf364daca9c77f2aa3fb1, type: 3}
+  - {fileID: 4962356066088493598, guid: 6ced5b225da8a4742b12f2a5cfc1d889, type: 3}
+  - {fileID: 4962356066088493598, guid: f950e8c54cf539544a4236d10cb13bbf, type: 3}
+  - {fileID: 4962356066088493598, guid: 6dbfcab0eca80ca4db202ac0cfdccc40, type: 3}
+  - {fileID: 4962356066088493598, guid: 70f865e000086b2479c40e9f50f6808c, type: 3}
+  - {fileID: 4962356066088493598, guid: 44889e49134ddec42b8b70ecd849cd05, type: 3}
+  - {fileID: 4962356066088493598, guid: fe1124e952866764b8c4ecdf20af4c60, type: 3}
+  - {fileID: 4962356066088493598, guid: 9986e8ef96362ba43bd02e1f71e36552, type: 3}
+  - {fileID: 4962356066088493598, guid: ad35e0dccca7fa6459f3b73e8157320e, type: 3}
+  - {fileID: 4962356066088493598, guid: e04df501ebd5e87468b79fa905344221, type: 3}
+  trashPrefabsHardCounter: 0
+  trashAudioSpherePrefabs: {fileID: 528328107779265490, guid: bf91d2562fa7bcd41be911269d36bf60,
+    type: 3}
+  spawnInterval: 8
+  itemSpawnPoint: {fileID: 0}
+  audioSphereSpawnPoint:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  Blocker: {fileID: 0}
+  restartHiddenImage: {fileID: 0}
+  duration: 0.2

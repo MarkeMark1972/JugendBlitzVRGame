@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eafb16b604bd0cf47a43c04715eccc70, type: 3}
+  m_Name: Glass Bottle
+  m_EditorClassIdentifier: 
+  produceName: Glass Bottle
+  targetBinType: 2
+  connectedPrefab: {fileID: 3594182544166339651, guid: 7d09e7bb0b196864a83bc5b352e401b9,
+    type: 3}
+  connectedTargetBinType: 4
+  winPoints: 1
